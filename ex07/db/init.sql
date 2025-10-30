@@ -4,4 +4,4 @@ CREATE TABLE user_tb (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 INSERT INTO user_tb (name) VALUES ('ssar');
-INSERT INTO user_tb (name) VALUES ('cose');
+INSERT INTO user_tb (name) VALUES ('cos');
